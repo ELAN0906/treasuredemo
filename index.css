@@ -1,0 +1,13 @@
+body{background-color:black;}
+#container1{background-color:#FBE0FF;margin-left:auto; margin-right:auto;}
+#container2{background-image:url(bg5.jpg);  background-size: cover;opacity: 1; background-repeat: no-repeat; margin-left:auto; margin-right:auto;}
+#basic{width:1000px; margin-left:auto; margin-right :auto;}
+p{padding-left:100px;text-align:center; font-family:Georgia; font-size:50; color:#9200A7;}
+.basic1{width:250px;float:left ;}
+.basic2{width:100px;float:right;}
+.basic3{width:450px;float:; margin-left:auto; margin-right:auto; padding-left:50px;}
+#question{text-align:center; font-family:Castellar; font-size:50; color:#000;}
+#content{text-align:center;margin-left:auto; margin-right:auto; font-family:simsun; font-size:50; padding-top:100px; padding-bottom:50PX; color:black; width:900px;}
+#button{ margin-left:auto; margin-right:auto;padding:50px 0px 50px 410px ;width:1000px;}
+.btn1{ background-color:yellow;  font-size:25px; border:;padding :12px 25px; font-family:Castellar; border: 5px solid black; cursor:pointer; position :relative;transition:0.8s;}
+.btn1:hover{color:white; background-color:blue;}
